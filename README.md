@@ -4,7 +4,7 @@
 1. Перейти в папку `COLIZEUM`.
 2. Выполнить команду:
 
-   ```bash
+   
    pip install -r requirements.txt
    ```
 
