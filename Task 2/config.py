@@ -1,0 +1,1 @@
+spreadsheet_name_table = 'cpu_price'
